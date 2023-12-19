@@ -19,8 +19,8 @@ h1{
 }
 
 .images img {
-    width: 25vw;
-    max-width: 25vw;
+    width: 50%;
+    max-width: 50%;
     margin-bottom: 40px;
     box-shadow: 4px 4px 15px black;
 }
