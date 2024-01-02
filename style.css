@@ -24,3 +24,10 @@ h1{
     margin-bottom: 40px;
     box-shadow: 4px 4px 15px black;
 }
+
+
+.images video {
+    width: 75%;
+    margin-bottom: 40px;
+    box-shadow: 4px 4px 15px black;
+}
